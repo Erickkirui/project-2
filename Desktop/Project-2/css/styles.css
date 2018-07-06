@@ -1,9 +1,11 @@
-.image {
-  max-height: 300px;
-  max-width: 300px;
-  width: 140px;
-  height: 140px;
+.image{
+  height: 120px;
+  width: 120px;
+  float:left;
 }
 .menu{
-  text-align: center;
+text-align: center;
+}
+.background{
+  background-size: url("image//home/erick/Desktop/Project-2/image")
 }

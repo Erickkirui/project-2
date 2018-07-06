@@ -5,7 +5,15 @@
 }
 .menu{
 text-align: center;
+color: red;
 }
 .background{
-  background-size: url("image//home/erick/Desktop/Project-2/image")
+background-image: url("/home/erick/Pictures/Wallpapers/uber_of_food_sharing_culture (1).jpg");
+}
+.colour{
+  color: yellow;
+}
+.font{
+  font-size: 15px;
+  float: left;
 }

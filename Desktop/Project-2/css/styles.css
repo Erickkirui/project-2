@@ -16,8 +16,23 @@ background-image: url("/home/erick/Pictures/Wallpapers/uber_of_food_sharing_cult
 .font{
   font-size: 12px;
  float: left;
+ font-style: italic;
 }
 .size{
   font-size: 99pxl;
-  color: lightgreen;
+  color: blue;
+}
+.drinks{
+  float:right;
+  height: 300px;
+  width: 300px;
+  width:50%
+}
+h2{
+  color: yellow;
+}
+.border{
+  text-align: center;
+  border-style: solid;
+background-color: black;
 }
